@@ -1,3 +1,7 @@
 ./各国简史/2中亚简史.pdf filter=lfs diff=lfs merge=lfs -text
 ./西藏的历史与文化/1西藏与西藏高原(上)Full.pdf filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/《全球通史》[[:space:]]L·S·斯塔夫里阿诺斯.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/1剑桥插图中国史.pdf filter=lfs diff=lfs merge=lfs -text
+./西藏的历史与文化/2西藏与西藏高原(中).pdf filter=lfs diff=lfs merge=lfs -text
+./西藏的历史与文化/3西藏与西藏高原（下）.pdf filter=lfs diff=lfs merge=lfs -text

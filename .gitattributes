@@ -13,3 +13,15 @@
 ./各国简史/2新加坡通俗史.pdf filter=lfs diff=lfs merge=lfs -text
 ./各国简史/2朝鲜简史.pdf filter=lfs diff=lfs merge=lfs -text
 ./西藏的历史与文化/4西藏史前史与史前考古（上）.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/《全球通史》[[:space:]]L·S·斯塔夫里阿诺斯.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/2泰国史.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/2现代不丹.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/2缅甸史.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/2老挝史.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/2菲律宾史.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/2越南通史.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/3俄国历史地图解说一千一百年来俄国疆界的变动.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/3俄国简明史.pdf filter=lfs diff=lfs merge=lfs -text
+./各国简史/3俄国通史简编.pdf filter=lfs diff=lfs merge=lfs -text
+./西藏的历史与文化/5西藏史前史与史前考古（中）.pdf filter=lfs diff=lfs merge=lfs -text
+./西藏的历史与文化/6西藏史前史与史前考古（下）.pdf filter=lfs diff=lfs merge=lfs -text
